@@ -1,0 +1,22 @@
+[
+    {
+      "directory": "C:/Aditya/College Code/ML Lab/ML Individual Project/Twitter-Sentiment-Analysis-in-Cpp-vs-Python/C++ Sentiment Analysis/build",
+      "command": "cl.exe /nologo /TP /EHsc /MD /std:c++17 /W4 /Zi /Fe:sentiment.exe /Fo:CMakeFiles/sentiment.dir/main.cpp.obj main.cpp",
+      "file": "../main.cpp"
+    },
+    {
+      "directory": "C:/Aditya/College Code/ML Lab/ML Individual Project/Twitter-Sentiment-Analysis-in-Cpp-vs-Python/C++ Sentiment Analysis/build",
+      "command": "cl.exe /nologo /TP /EHsc /MD /std:c++17 /W4 /Zi /Fe:sentiment.exe /Fo:CMakeFiles/sentiment.dir/DSString.cpp.obj DSString.cpp",
+      "file": "../DSString.cpp"
+    },
+    {
+      "directory": "C:/Aditya/College Code/ML Lab/ML Individual Project/Twitter-Sentiment-Analysis-in-Cpp-vs-Python/C++ Sentiment Analysis/build",
+      "command": "cl.exe /nologo /TP /EHsc /MD /std:c++17 /W4 /Zi /Fe:sentiment.exe /Fo:CMakeFiles/sentiment.dir/Twitter.cpp.obj Twitter.cpp",
+      "file": "../Twitter.cpp"
+    },
+    {
+      "directory": "C:/Aditya/College Code/ML Lab/ML Individual Project/Twitter-Sentiment-Analysis-in-Cpp-vs-Python/C++ Sentiment Analysis/build",
+      "command": "cl.exe /nologo /TP /EHsc /MD /std:c++17 /W4 /Zi /Fe:sentiment.exe /Fo:CMakeFiles/sentiment.dir/Word.cpp.obj Word.cpp",
+      "file": "../Word.cpp"
+    }
+  ]
